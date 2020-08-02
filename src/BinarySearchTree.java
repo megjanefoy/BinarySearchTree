@@ -1,8 +1,6 @@
 /**************************************************************
- Author's Panther ID: 3276301
+ Author: Megan Jane Thompson
  Purpose: This program contains many functions for a BST.
- Certification: I hereby certify that this work is my own
-   		  and none of it is the work of any other person.
 **************************************************************/
 
 public class BinarySearchTree{
